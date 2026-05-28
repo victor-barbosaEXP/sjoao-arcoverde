@@ -2,8 +2,8 @@
   "name": "São João de Arcoverde 2026",
   "short_name": "SJArcoverde",
   "description": "Guia oficial do São João de Arcoverde 2026 — programação, hospedagem, alimentação, transporte e muito mais.",
-  "start_url": "/index.html",
-  "scope": "/",
+  "start_url": "/sjoao-arcoverde/index.html",
+  "scope": "/sjoao-arcoverde/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#ff9800",
@@ -44,14 +44,14 @@
       "name": "Programação",
       "short_name": "Prog.",
       "description": "Veja a programação do evento",
-      "url": "/index.html#programacao",
+      "url": "/sjoao-arcoverde/index.html#programacao",
       "icons": [{ "src": "assets/icons/icon-96x96.png", "sizes": "96x96" }]
     },
     {
       "name": "Mapa",
       "short_name": "Mapa",
       "description": "Veja o mapa do evento",
-      "url": "/index.html#mapa",
+      "url": "/sjoao-arcoverde/index.html#mapa",
       "icons": [{ "src": "assets/icons/icon-96x96.png", "sizes": "96x96" }]
     }
   ]
